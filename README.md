@@ -12,6 +12,6 @@ An inventory of plant species from Maritime Alps used as model to study plant tr
 ## Surveys
 An animal field survey from [Ernest et al., 2017](https://doi.org/10.6084/m9.figshare.1314459.v6)
 
-###### [survey.csv](https://raw.githubusercontent.com/mchialva/PhDToolbox2023/main/Datasets/survey.csv) -  main dataset
+###### [surveys.csv](https://raw.githubusercontent.com/mchialva/PhDToolbox2023/main/Datasets/surveys.csv) -  main dataset
 ###### [species.csv](https://raw.githubusercontent.com/mchialva/PhDToolbox2023/main/Datasets/species.csv) - details on species taxonomy
 ###### [plots.csv](https://raw.githubusercontent.com/mchialva/PhDToolbox2023/main/Datasets/plots.csv) - details on experimental plots
