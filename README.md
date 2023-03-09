@@ -15,3 +15,6 @@ An animal field survey from [Ernest et al., 2017](https://doi.org/10.6084/m9.fig
 ###### [surveys.csv](https://raw.githubusercontent.com/mchialva/PhDToolbox2023/main/Datasets/surveys.csv) -  main dataset
 ###### [species.csv](https://raw.githubusercontent.com/mchialva/PhDToolbox2023/main/Datasets/species.csv) - details on species taxonomy
 ###### [plots.csv](https://raw.githubusercontent.com/mchialva/PhDToolbox2023/main/Datasets/plots.csv) - details on experimental plots
+
+## Predictions
+CAZymes gene prediction in 8 fungal model species (from [Adamo, Chialva et al., 2020](https://doi.org/10.3390/ijms21093139))
